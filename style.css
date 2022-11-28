@@ -1,0 +1,95 @@
+
+
+.navbar-toggler{
+    background-image: url(b.img/532-5328945_menu-bar-icon-white-clipart-png-download-menu.png) !important;
+   
+
+}
+.nav-item a
+{
+ font-size: x-small
+}
+.magin{
+margin-left: 10%;
+margin-top: 8%;
+
+}
+.size{
+    font-size: 5vw;
+    color: aliceblue;
+}
+.lm
+{
+    color: aliceblue;
+}
+
+.navbar-toggler{
+    z-index: 2 !important;
+}
+.gg
+{
+    
+    width: 500px;
+}
+.loo
+{
+    color: rgb(106, 103, 103);
+}
+.maa
+{
+    margin-top: 15%;
+}
+.curv
+{
+    border-radius: 15px !important;
+    color: rgb(60, 102, 102);
+    border-color: aqua;
+}
+
+.row {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.pp
+{
+    background-color: rgba(46, 241, 241, 0.995);
+}
+.qq
+{
+    margin-left: 5%;
+margin-top: 15%;
+}
+.rr
+{
+    text-align: center ;
+    margin-top: 5%;
+
+}
+.oo
+{
+    margin-left:13% ;
+margin-top: 7%;
+}
+.assu
+{
+    background-image: url(b.img/now.jpg) ;
+    background-size: cover;
+    height: 600px;
+   width: 100%;
+}
+
+@media screen and (min-width: 1030px) {
+    #ban{
+        height: 550px;
+    }
+
+}
+.oops
+{
+height: 80px;
+}
+.tt
+{
+    height: 140px;
+    background-color: rgb(94, 244, 154);
+}
